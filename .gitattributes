@@ -1,2 +1,2 @@
 * linguist-vendored
-*.Dart linguist-detectable=true
+*.Dart linguist-detectable=false
